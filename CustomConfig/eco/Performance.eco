@@ -1,0 +1,4 @@
+{
+  "MaxTooltipCacheSize": 1000,
+  "TrackRepeatedNotifications": false
+}
